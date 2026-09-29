@@ -11,7 +11,7 @@ This repository contains configuration XMLs, Client Scripts, screenshots, and te
 
 ## 🎥 Demo Video
 
-[▶️ Watch the ServiceNow Project Demo](https://drive.google.com/file/d/15gM7HQOo1h89jvKIvfGeAJilgFdY3sG_/view)
+[▶️ Watch the ServiceNow Project Demo]https://drive.google.com/file/d/1BXAEd34Sg9M9Xona1QI-J7igq4fMakmc/view?usp=drivesdk
 
 ---
 
@@ -25,10 +25,10 @@ The objective of this project is to enforce dynamic business logic, automated fi
 
 ## 👥 Team Members & Roles
 
-* **Nishanth T** — UI Policy Configuration & List Edit Client Script Development
-* **Ranjith S** — UI Policy Actions Configuration & Testing Suite Execution
-* **Ravichandran K** — `onChange` Client Script Implementation & Validation
-* **Ronald Paul Sebastin A** — `onSubmit` Save Validation Scripting & Reverse Testing
+* **Barani R** — UI Policy Configuration & List Edit Client Script Development
+* **Abilash M** — UI Policy Actions Configuration & Testing Suite Execution
+* **Ajai B** — `onChange` Client Script Implementation & Validation
+* **Akash K & Abishek Prabu S** — `onSubmit` Save Validation Scripting & Reverse Testing
 
 ---
 
