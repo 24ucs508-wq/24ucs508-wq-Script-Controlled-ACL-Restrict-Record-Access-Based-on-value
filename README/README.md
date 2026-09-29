@@ -1,3 +1,8 @@
+Automatically triggers when an Incident's `Impact` is set to `1 - High`.
+* **UI Policy Action**: Enforces the `Urgency` field to be **Read-only** when High Impact conditions are met.
+* **`onChange` Client Script**: Automatically sets `Urgency` to `1 - High` and displays an informational message when `Impact` changes to High.
+* **`onSubmit` Client Script**: Validates that `Assigned To` is populated before submitting high-impact incidents, displaying an inline error box if missing.
+* **`onCellEdit` Client Script**: Blocks unauthorized inline updates to the `State` field directly from the Incident list view.
 # ServiceNow: Implement Client Script & UI Policy (Incident)
 
 This repository contains configuration XMLs, Client Scripts, screenshots, and technical documentation for implementing client-side validation and automated UI policies on the **Incident (`incident`)** table in ServiceNow.
@@ -15,12 +20,7 @@ This repository contains configuration XMLs, Client Scripts, screenshots, and te
 The objective of this project is to enforce dynamic business logic, automated field dependencies, form submission validations, and list-view editing restrictions on ServiceNow Incident records.
 
 ### Key Deliverables & Features
-* **UI Policy (`High Impact Control`)**: Automatically triggers when an Incident's `Impact` is set to `1 - High`.
-* **UI Policy Action**: Enforces the `Urgency` field to be **Read-only** when High Impact conditions are met.
-* **`onChange` Client Script**: Automatically sets `Urgency` to `1 - High` and displays an informational message when `Impact` changes to High.
-* **`onSubmit` Client Script**: Validates that `Assigned To` is populated before submitting high-impact incidents, displaying an inline error box if missing.
-* **`onCellEdit` Client Script**: Blocks unauthorized inline updates to the `State` field directly from the Incident list view.
-
+* **UI Policy (`High Impact Control`)**: 
 ---
 
 ## 👥 Team Members & Roles
