@@ -11,7 +11,7 @@ This repository contains configuration XMLs, Client Scripts, screenshots, and te
 
 ## 🎥 Demo Video
 
-[▶️ Watch the ServiceNow Project Demo]https://drive.google.com/file/d/1BXAEd34Sg9M9Xona1QI-J7igq4fMakmc/view?usp=drivesdk
+[▶️ Watch the ServiceNow Project Demo]https://drive.google.com/file/d/1WsLhwkmHwmLZVQQZ1kxdDRgENnb3Oejw/view?usp=drivesdk
 
 ---
 
